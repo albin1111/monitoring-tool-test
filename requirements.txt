@@ -1,0 +1,11 @@
+streamlit
+polars
+duckdb
+pyarrow
+fastexcel
+plotly
+xlsxwriter
+msoffcrypto-tool
+pyodbc
+openpyxl
+xlrd
